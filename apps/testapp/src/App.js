@@ -1,7 +1,10 @@
+
 import './App.css';
 
 // Import the shared function into the `create-react-app` application
 import { getSiteInfo } from 'site-info';
+
+
 
 export default function App() {
   //Define a variable to get the values
